@@ -1,8 +1,8 @@
 ###These are my solutions to problems from leetcode.com###
 
 So far following are complete:
-* * 2. Add Two Numbers
-* * 3. Longest substring without repeating characters
+* 2. Add Two Numbers
+* 3. Longest substring without repeating characters
 * * 4. Median of Two sorted arrays
 * * 5. Longest palinfrome
 * * 6. Zigzag conversions
