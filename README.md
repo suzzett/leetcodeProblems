@@ -1,5 +1,5 @@
 ###These are my solutions to problems from leetcode.com###
-### So far following are complete: ###
+### So far following have been attempted (Most are complete with multiple solutions to some): ###
 
 * Add Two Numbers (Problem 2)
 * Longest substring without repeating characters (Problem 3)
